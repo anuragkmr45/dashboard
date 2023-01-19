@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.27894868.js",
+    "static/media/home-decor-3.jpg": "/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
+    "static/media/home-decor-2.jpg": "/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
+    "static/media/home-decor-1.jpg": "/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
+    "static/media/bg-sign-in-basic.jpeg": "/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "static/media/bg-profile.jpeg": "/static/media/bg-profile.af1219a742e09fc7b612.jpeg",
+    "static/media/home-decor-4.jpeg": "/static/media/home-decor-4.5b448fd339a14695f6aa.jpeg",
+    "static/media/team-1.jpg": "/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/bruce-mars.jpg": "/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/marie.jpg": "/static/media/marie.c28f32663b6432b46f78.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/ivana-square.jpg": "/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
+    "static/media/kal-visuals-square.jpg": "/static/media/kal-visuals-square.3210e28a48ff572ae88b.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.85c82b6e60178804017f.jpg",
+    "index.html": "/index.html",
+    "main.27894868.js.map": "/static/js/main.27894868.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27894868.js"
+  ]
+}
