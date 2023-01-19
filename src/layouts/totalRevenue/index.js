@@ -8,8 +8,8 @@ import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import DataTable from "examples/Tables/DataTable";
 
-import authorsTableData from "layouts/tables/data/authorsTableData";
-import projectsTableData from "layouts/tables/data/projectsTableData";
+import authorsTableData from "layouts/totalRevenue/data/authorsTableData";
+import projectsTableData from "layouts/totalRevenue/data/projectsTableData";
 
 function Tables() {
   const { columns, rows } = authorsTableData();

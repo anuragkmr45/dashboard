@@ -5,9 +5,9 @@ import MDBox from "components/MDBox";
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 
-import Invoices from "layouts/billing/components/Invoices";
-import BillingInformation from "layouts/billing/components/BillingInformation";
-import Transactions from "layouts/billing/components/Transactions";
+import Invoices from "layouts/yesterdayReport/components/Invoices";
+import BillingInformation from "layouts/yesterdayReport/components/BillingInformation";
+import Transactions from "layouts/yesterdayReport/components/Transactions";
 
 function Billing() {
   return (

@@ -1,9 +1,7 @@
 import Grid from "@mui/material/Grid";
 
-// Material React components
 import MDBox from "components/MDBox";
 
-// Material React example components
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import ReportsBarChart from "examples/Charts/BarCharts/ReportsBarChart";
@@ -11,8 +9,8 @@ import ReportsLineChart from "examples/Charts/LineCharts/ReportsLineChart";
 import ComplexStatisticsCard from "examples/Cards/StatisticsCards/ComplexStatisticsCard";
 
 // Data
-import reportsBarChartData from "layouts/dashboard/data/reportsBarChartData";
-import reportsLineChartData from "layouts/dashboard/data/reportsLineChartData";
+import reportsBarChartData from "layouts/monthlyReport/data/reportsBarChartData";
+import reportsLineChartData from "layouts/monthlyReport/data/reportsLineChartData";
 
 // Dashboard components
 // import Projects from "layouts/dashboard/components/Projects";

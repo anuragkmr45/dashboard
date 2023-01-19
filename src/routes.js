@@ -1,6 +1,6 @@
-import Dashboard from "layouts/dashboard";
-import Tables from "layouts/tables";
-import Billing from "layouts/billing";
+import MonthlyReport from "layouts/monthlyReport";
+import TotalRevenue from "layouts/totalRevenue";
+import YesterdayReport from "layouts/yesterdayReport";
 import Profile from "layouts/profile";
 import SignIn from "layouts/authentication/sign-in";
 
@@ -13,7 +13,7 @@ const routes = [
     key: "dashboard",
     icon: <Icon fontSize="small">dashboard</Icon>,
     route: "/dashboard",
-    component: <Dashboard />,
+    component: <MonthlyReport />,
   },
   {
     type: "collapse",
@@ -21,7 +21,7 @@ const routes = [
     key: "tables",
     icon: <Icon fontSize="small">table_view</Icon>,
     route: "/tables",
-    component: <Tables />,
+    component: <TotalRevenue />,
   },
   {
     type: "collapse",
@@ -29,7 +29,7 @@ const routes = [
     key: "billing",
     icon: <Icon fontSize="small">receipt_long</Icon>,
     route: "/billing",
-    component: <Billing />,
+    component: <YesterdayReport />,
   },
   {
     type: "collapse",

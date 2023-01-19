@@ -1,11 +1,9 @@
 import Card from "@mui/material/Card";
 
-// Material React components
 import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
 
-// Billing page components
-import Bill from "layouts/billing/components/Bill";
+import Bill from "layouts/yesterdayReport/components/Bill";
 
 function BillingInformation() {
   return (
