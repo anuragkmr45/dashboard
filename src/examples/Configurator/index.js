@@ -82,7 +82,6 @@ function Configurator() {
     },
   });
 
-  // sidenav type active button styles
   const sidenavTypeActiveButtonStyles = ({
     functions: { pxToRem, linearGradient },
     palette: { white, gradients, background },
